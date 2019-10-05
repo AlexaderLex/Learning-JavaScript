@@ -1,0 +1,13 @@
+git add -A (git add index.html);
+
+(значит добавить все измененные файлы, если нужно добвить определенные файлы то пишем их имена с расширениями: index.html, script,js etc);
+
+git commit -a -m "Second, third, or fucking do not know commit";
+
+
+git log 
+позволяет увидеть все наши действия в Git Bash
+
+git log --help 
+откроется браузер с документацией по Git;
+
