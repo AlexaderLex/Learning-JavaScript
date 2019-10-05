@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ html{
+     background-image: url("../img/Beautiful-HD-1080p.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: 0 0;
+     height: 100%;
+     width: 100%;
+     
+ }
+
+body {
+    margin: 30px;
+}
+
+ header h2 {
+     margin-bottom: 60px;
+     color: #ddd;
+ }
+
+.headArt {
+    margin: 100px auto;
+    min-height: 120px;
+    padding: 5px 0;
+    color: #fff;
+    background: linear-gradient(to left, rgba(167,207,223,1) 0%,rgba(35,83,138,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.headArt h2 {
+    margin: 20px;
+}
+
+.headImg {
+    margin: 10px 0 0 10px;
+    width: 600px;
+}
+
+.headList {
+    margin: 20px;
+}
